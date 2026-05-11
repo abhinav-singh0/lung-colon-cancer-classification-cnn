@@ -1,0 +1,30 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Large datasets
+dataset/
+
+# Temporary notebooks
+abhinav.ipynb
+abhinav1.ipynb
+model.ipynb
+new.ipynb
+
+# CSV files
+*.csv
+
+# Extra model files
+model.pth
