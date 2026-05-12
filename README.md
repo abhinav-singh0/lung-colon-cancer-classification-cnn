@@ -237,4 +237,4 @@ Indian Institute of Technology Dharwad
 
 ## 🙏 Acknowledgment
 
-Special thanks to the faculty of the Neural Networks and Deep Learning course at IIT Dharwad for their guidance and support throughout this pr
+Special thanks to the faculty of the Neural Networks and Deep Learning course at IIT Dharwad for their guidance and support throughout this project.
